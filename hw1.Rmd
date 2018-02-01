@@ -12,11 +12,12 @@ and your writeup matter for your overall grade.
 -->
 
 ```{r}
+setwd("/dont/set_me/on_fire")
+
 fizzbuzz = function(v)
 {
-
+  
 }
-stop("Error")
 ```
 
 ### Task 2 - Validation
