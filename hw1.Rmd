@@ -16,6 +16,7 @@ fizzbuzz = function(v)
 {
 
 }
+stop("Error")
 ```
 
 ### Task 2 - Validation
