@@ -14,9 +14,8 @@ and your writeup matter for your overall grade.
 ```{r}
 setwd("/dont/set_me/on_fire")
 
-fizzbuzz = function(v)
-{
-  
+fizzbuzz <- function(v) {
+
 }
 ```
 
